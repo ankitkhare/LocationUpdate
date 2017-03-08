@@ -1,4 +1,4 @@
-package com.bansalankit.openweather.location;
+package com.khareankit.openweather.location;
 
 import android.content.Context;
 import android.location.Location;
